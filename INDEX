@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #2b2b2b; color: white; padding: 50px; }
+        .portal-box { border: 2px solid #d4af37; padding: 30px; background: #353a20; border-radius: 10px; }
+        .btn-submit { background: #d4af37; color: black; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; }
+        .input-group { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="portal-box">
+        <h1>🎖️ Army Retirement Portal</h1>
+        <p>Family Representative Access Point</p>
+        <div class="input-group">
+            <label>Service Member Name:</label><br>
+            <input type="text" placeholder="Last Name, First Name">
+        </div>
+        <a href="https://github.com" class="btn-submit">SUBMIT RETIREMENT COMMIT</a>
+    </div>
+</body>
+</html>
